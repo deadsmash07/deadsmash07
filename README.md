@@ -2,44 +2,46 @@
 
 <br />
 
-I'm a self-taught passionate FrontEnd developer from India 🇮🇳
+I'm Deep learning enthusiast from India 
 
 **About me**
 
-- 💼 FrontEnd Engineer at [Razorpay](http://razorpay.com/)
+- CSE sophomore at IIT Delhi
 
-- 📈 Built github-readme-stats, verlyjs and more, **50m+** hits • **50K** stars on GitHub
+- Passionate about applying algorithms and data analysis to solve real-world problems.
 
-- ❤️ I love writing TypeScript, and building fun experiments on type-level
+- Experienced in Python, C++, and Deep Learning with keen interest in learning about LLMs and NLPs.
+  
 
-- 💬 Ask me about anything [here](https://github.com/deadsmash07/deadsmash07/issues)
+- Ask me about anything [here](https://github.com/deadsmash07/deadsmash07/issues)
 
-<code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" alt="graphql" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-<code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
+<img height="20" alt="C++" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png">
+<img height="20" alt="Python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
+<img height="20" alt="Prolog" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/prolog/prolog.png"> 
+<img height="20" alt="OCaml" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ocaml/ocaml.png">
+<img height="20" alt="HTML" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"> 
+ 
 
 
-| <a href="https://github.com/deadsmash07/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=deadsmash07&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/deadsmash07/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deadsmash07&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/deadsmash07/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=deadsmash07&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Arnav's github stats" /></a> | <a href="https://github.com/deadsmash07/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deadsmash07&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 #### Top Repositories
 
+#### Top Repositories
 
-<a href="https://github.com/deadsmash07/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=deadsmash07&repo=github-readme-stats&theme=buefy" />
+<a href="https://github.com/deadsmash07/Advance-Analytic-Tool">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=deadsmash07&repo=Advance-Analytic-Tool&theme=buefy" />
 </a>
-<a href="https://github.com/deadsmash07/deadsmash07.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=deadsmash07&repo=deadsmash07.github.io&theme=buefy" />
+<a href="https://github.com/deadsmash07/Document-Search-and-Retrieval-Tool">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=deadsmash07&repo=Document-Search-and-Retrieval-Tool&theme=buefy" />
 </a>
+
 
 <br />
 <br />
 
-<a href="https://twitter.com/anuraghazru">
-  <img align="right" alt="Arnav Raj| Twitter" width="21px" src="https://raw.githubusercontent.com/deadsmash07/deadsmash07/master/assets/twitter.svg" />
-</a>
 <a href="https://codesandbox.io/u/deadsmash07">
-  <img align="right" alt="Arnav Raj| CodeSandbox" width="20px" src="https://raw.githubusercontent.com/deadsmash07/deadsmash07/master/assets/codesandbox.svg" />
+ <img align="right" alt="Arnav Raj| CodeSandbox" width="20px" src="https://raw.githubusercontent.com/deadsmash07/deadsmash07/master/assets/codesandbox.svg" />
 </a>
+
