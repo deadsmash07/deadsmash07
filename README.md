@@ -11,15 +11,12 @@ I'm Deep learning enthusiast from India
 - Passionate about applying algorithms and data analysis to solve real-world problems.
 
 - Experienced in Python, C++, and Deep Learning with keen interest in learning about LLMs and NLPs.
-  
 
-- Ask me about anything [here](https://github.com/deadsmash07/deadsmash07/issues)
-
-<img height="20" alt="C++" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png">
-<img height="20" alt="Python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
-<img height="20" alt="Prolog" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/prolog/prolog.png"> 
-<img height="20" alt="OCaml" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ocaml/ocaml.png">
-<img height="20" alt="HTML" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"> 
+<code><img height="20" alt="C++" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="20" alt="Python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" alt="OCaml" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ocaml/ocaml.png"></code>
+<code><img height="20" alt="Dart" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"> </code>
+<code><img height="20" alt="HTML" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
  
 
 
@@ -33,8 +30,9 @@ I'm Deep learning enthusiast from India
 <a href="https://github.com/deadsmash07/Advance-Analytic-Tool">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=deadsmash07&repo=Advance-Analytic-Tool&theme=buefy" />
 </a>
+
 <a href="https://github.com/deadsmash07/Document-Search-and-Retrieval-Tool">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=deadsmash07&repo=Document-Search-and-Retrieval-Tool&theme=buefy" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=deadsmash07&repo=Advance-Analytic-Tool&theme=buefy" />
 </a>
 
 
