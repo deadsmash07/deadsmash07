@@ -23,17 +23,17 @@ I'm Deep learning enthusiast from India
 | <a href="https://github.com/deadsmash07/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=deadsmash07&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Arnav's github stats" /></a> | <a href="https://github.com/deadsmash07/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deadsmash07&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-#### Top Repositories
+
 
 #### Top Repositories
 
 <a href="https://github.com/deadsmash07/Advance-Analytic-Tool">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=deadsmash07&repo=Advance-Analytic-Tool&theme=buefy" />
+ <img align="center" src= "https://github-readme-stats.vercel.app/api/pin/?username=deadsmash07&repo=Advance-Analytic-Tool&theme=buefy" />
+</a>
+<a href="https://github.com/deadsmash07/Document-Search-and-Retrieval-Tool">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=deadsmash07&repo=Document-Search-and-Retrieval-Tool&theme=buefy" />
 </a>
 
-<a href="https://github.com/deadsmash07/Document-Search-and-Retrieval-Tool">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=deadsmash07&repo=Advance-Analytic-Tool&theme=buefy" />
-</a>
 
 
 <br />
