@@ -20,7 +20,8 @@ I'm Deep learning enthusiast from India
  
 
 
-| <a href="https://github.com/deadsmash07/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=deadsmash07&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Arnav's github stats" /></a> | <a href="https://github.com/deadsmash07/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deadsmash07&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/deadsmash07/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=deadsmash07&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Arnav's github stats" /></a> | <a href="https://github.com/deadsmash07/github-readme-stats"><img align="center" src=" ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myusername&hide=javascript,css,scss,html&theme=tokyonight)
+" /></a> |
 | ------------- | ------------- |
 
 
