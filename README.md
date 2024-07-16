@@ -6,7 +6,7 @@ I'm Deep learning enthusiast from India
 
 **About me**
 
-- CSE sophomore at IIT Delhi
+- CSE Junior at IIT Delhi
 
 - Passionate about applying algorithms and data analysis to solve real-world problems.
 
