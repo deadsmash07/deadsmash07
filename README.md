@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://deadsmash07.github.io">
+  <a href="https://arnav-raj.vercel.app/">
     <img width="80%" alt="Hello, I'm Arnav! I do open ML!" src="./assets/gh-readme-header.png" />
   </a>
 </div>
@@ -9,9 +9,9 @@
 </h1>
 
 <p align="center">
-  <a href="https://deadsmash07.github.io"><img src="https://img.shields.io/badge/Website-deadsmash07.github.io-blue?style=flat-square&logo=google-chrome"></a>
-  <a href="https://codesandbox.io/u/deadsmash07"><img src="https://img.shields.io/badge/CodeSandbox-deadsmash07-black?style=flat-square&logo=codesandbox"></a>
+  <a href="https://arnav-raj.vercel.app/"><img src="https://img.shields.io/badge/Website-arnav--raj.vercel.app-blue?style=flat-square&logo=google-chrome"></a>
   <img src="https://komarev.com/ghpvc/?username=deadsmash07&label=Profile%20Views&color=0e75b6&style=flat-square" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/deadsmash07?label=Followers&style=flat-square&color=blue" alt="followers" />
 </p>
 
 ---
@@ -61,40 +61,44 @@ me.say_hi()
 
 ## 📊 GitHub Statistics
 
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=deadsmash07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=deadsmash07&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=deadsmash07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img width="48%" src="https://streak-stats.demolab.com?user=deadsmash07&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deadsmash07&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=deadsmash07&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
-</div>
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deadsmash07&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img width="48%" src="https://github-contributor-stats.vercel.app/api?username=deadsmash07&limit=5&theme=tokyonight&hide_border=true&combine_all_yearly_contributions=true" alt="Contribution Stats" />
+</p>
 
-<div align="center">
+<p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=deadsmash07&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
-</div>
+</p>
 
 ---
 
 ## 🌟 Featured Projects
 
-<div align="center">
+<p align="center">
   <a href="https://github.com/deadsmash07/Advance-Analytic-Tool">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=deadsmash07&repo=Advance-Analytic-Tool&theme=tokyonight&hide_border=true" alt="Advance Analytic Tool" />
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=deadsmash07&repo=Advance-Analytic-Tool&theme=tokyonight&hide_border=true" alt="Advance Analytic Tool" />
   </a>
   <a href="https://github.com/deadsmash07/Document-Search-and-Retrieval-Tool">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=deadsmash07&repo=Document-Search-and-Retrieval-Tool&theme=tokyonight&hide_border=true" alt="Document Search and Retrieval Tool" />
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=deadsmash07&repo=Document-Search-and-Retrieval-Tool&theme=tokyonight&hide_border=true" alt="Document Search and Retrieval Tool" />
   </a>
-</div>
+</p>
 
 ---
 
 ## 📈 Contribution Activity
 
-<div align="center">
+<p align="center">
+  <img src="https://ghchart.rshah.org/2e9ef7/deadsmash07" alt="GitHub Contribution Chart" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=deadsmash07&bg_color=1a1b27&color=38bdae&line=70a5fd&point=bf91f3&area=true&hide_border=true" alt="Contribution Graph" />
-</div>
+</p>
 
 ---
 
@@ -111,11 +115,8 @@ me.say_hi()
 ## 🤝 Connect With Me
 
 <p align="center">
-  <a href="https://deadsmash07.github.io">
-    <img src="https://img.shields.io/badge/Website-deadsmash07.github.io-blue?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
-  <a href="https://codesandbox.io/u/deadsmash07">
-    <img src="https://img.shields.io/badge/CodeSandbox-000000?style=for-the-badge&logo=codesandbox&logoColor=white" />
+  <a href="https://arnav-raj.vercel.app/">
+    <img src="https://img.shields.io/badge/Website-arnav--raj.vercel.app-blue?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
   <a href="https://github.com/deadsmash07">
     <img src="https://img.shields.io/badge/GitHub-deadsmash07-181717?style=for-the-badge&logo=github&logoColor=white" />
