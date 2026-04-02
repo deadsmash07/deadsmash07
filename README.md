@@ -9,7 +9,7 @@
 </h1>
 
 <p align="center">
-  <a href="https://arnav-raj.vercel.app/"><img src="https://img.shields.io/badge/Website-arnav--raj.vercel.app-blue?style=flat-square&logo=google-chrome"></a>
+  <!-- <a href="https://arnav-raj.vercel.app/"><img src="https://img.shields.io/badge/Website-arnav--raj.vercel.app-blue?style=flat-square&logo=google-chrome"></a> -->
   <img src="https://komarev.com/ghpvc/?username=deadsmash07&label=Profile%20Views&color=0e75b6&style=flat-square" alt="profile views" />
   <img src="https://img.shields.io/github/followers/deadsmash07?label=Followers&style=flat-square&color=blue" alt="followers" />
 </p>
@@ -114,9 +114,9 @@ me.say_hi()
 ## 🤝 Connect With Me
 
 <p align="center">
-  <a href="https://arnav-raj.vercel.app/">
+  <!-- <a href="https://arnav-raj.vercel.app/">
     <img src="https://img.shields.io/badge/Website-arnav--raj.vercel.app-blue?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
+  </a> -->
   <a href="https://github.com/deadsmash07">
     <img src="https://img.shields.io/badge/GitHub-deadsmash07-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
