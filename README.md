@@ -123,7 +123,7 @@ me.say_hi()
 </p>
 
 <div align="center">
-  <i>⭐️ From <a href="https://github.com/deadsmash07">deadsmash07</a> - Let's build something amazing together!</i>
+  <i>⭐️ From <a href="https://github.com/deadsmash07">deadsmash07</a> - Let's build something amazing together!!</i>
 </div>
 
 ---
