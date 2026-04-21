@@ -1,5 +1,5 @@
 <!-- <div align="center">
-  <a href="https://arnav-raj.vercel.app/">
+  <a href="https://arnav-raj.vercel.app">
     <img width="80%" alt="Hello, I'm Arnav! I do open ML!" src="./assets/gh-readme-header.png" />
   </a>
 </div> -->
